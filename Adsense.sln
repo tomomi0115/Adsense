@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adsense", "Adsense.csproj", "{C4FFE8A5-5B0B-4C11-88E9-5885A4EA5BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4FFE8A5-5B0B-4C11-88E9-5885A4EA5BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FFE8A5-5B0B-4C11-88E9-5885A4EA5BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FFE8A5-5B0B-4C11-88E9-5885A4EA5BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FFE8A5-5B0B-4C11-88E9-5885A4EA5BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6289E7D2-6377-410C-91E4-4DB9FB004E0C}
+	EndGlobalSection
+EndGlobal
